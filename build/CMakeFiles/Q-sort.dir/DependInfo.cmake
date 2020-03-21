@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/binh/CTEST/sources/QsortMain.c" "/home/binh/CTEST/build/CMakeFiles/Q-sort.dir/sources/QsortMain.c.o"
+  "/home/binh/Desktop/Ctest/sources/QsortMain.c" "/home/binh/Desktop/Ctest/build/CMakeFiles/Q-sort.dir/sources/QsortMain.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -15,7 +15,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/binh/CTEST/build/lib/CMakeFiles/Qsort.dir/DependInfo.cmake"
+  "/home/binh/Desktop/Ctest/build/lib/CMakeFiles/Qsort.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

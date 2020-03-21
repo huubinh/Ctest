@@ -5,7 +5,7 @@
 int main()
 {
     FILE*f;
-    if ((f=fopen("/home/binh/CTEST/sources/Listofnumbers.txt","r"))==NULL)
+    if ((f=fopen("/home/binh/Desktop/Ctest/sources/Listofnumbers.txt","r"))==NULL)
     {
         printf("Can not open file\n");
         exit(-1);

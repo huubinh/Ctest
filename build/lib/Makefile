@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/binh/CTEST
+CMAKE_SOURCE_DIR = /home/binh/Desktop/Ctest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/binh/CTEST/build
+CMAKE_BINARY_DIR = /home/binh/Desktop/Ctest/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/binh/CTEST/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/binh/CTEST/build/CMakeFiles /home/binh/CTEST/build/lib/CMakeFiles/progress.marks
-	cd /home/binh/CTEST/build && $(MAKE) -f CMakeFiles/Makefile2 lib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/CTEST/build/CMakeFiles 0
+	cd /home/binh/Desktop/Ctest/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/build/CMakeFiles /home/binh/Desktop/Ctest/build/lib/CMakeFiles/progress.marks
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f CMakeFiles/Makefile2 lib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/binh/CTEST/build && $(MAKE) -f CMakeFiles/Makefile2 lib/clean
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f CMakeFiles/Makefile2 lib/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/binh/CTEST/build && $(MAKE) -f CMakeFiles/Makefile2 lib/preinstall
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/binh/CTEST/build && $(MAKE) -f CMakeFiles/Makefile2 lib/preinstall
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f CMakeFiles/Makefile2 lib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/binh/CTEST/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/binh/Desktop/Ctest/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 lib/CMakeFiles/Qsort.dir/rule:
-	cd /home/binh/CTEST/build && $(MAKE) -f CMakeFiles/Makefile2 lib/CMakeFiles/Qsort.dir/rule
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f CMakeFiles/Makefile2 lib/CMakeFiles/Qsort.dir/rule
 .PHONY : lib/CMakeFiles/Qsort.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ Qsort: lib/CMakeFiles/Qsort.dir/rule
 
 # fast build rule for target.
 Qsort/fast:
-	cd /home/binh/CTEST/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/build
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/build
 .PHONY : Qsort/fast
 
 Qsort.o: Qsort.c.o
@@ -131,7 +131,7 @@ Qsort.o: Qsort.c.o
 
 # target to build an object file
 Qsort.c.o:
-	cd /home/binh/CTEST/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.o
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.o
 .PHONY : Qsort.c.o
 
 Qsort.i: Qsort.c.i
@@ -140,7 +140,7 @@ Qsort.i: Qsort.c.i
 
 # target to preprocess a source file
 Qsort.c.i:
-	cd /home/binh/CTEST/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.i
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.i
 .PHONY : Qsort.c.i
 
 Qsort.s: Qsort.c.s
@@ -149,7 +149,7 @@ Qsort.s: Qsort.c.s
 
 # target to generate assembly for a file
 Qsort.c.s:
-	cd /home/binh/CTEST/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.s
+	cd /home/binh/Desktop/Ctest/build && $(MAKE) -f lib/CMakeFiles/Qsort.dir/build.make lib/CMakeFiles/Qsort.dir/Qsort.c.s
 .PHONY : Qsort.c.s
 
 # Help Target
@@ -175,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/binh/CTEST/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/binh/Desktop/Ctest/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

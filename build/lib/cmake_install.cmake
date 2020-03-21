@@ -1,4 +1,4 @@
-# Install script for directory: /home/binh/CTEST/lib
+# Install script for directory: /home/binh/Desktop/Ctest/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

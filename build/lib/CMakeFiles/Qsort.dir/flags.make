@@ -6,5 +6,5 @@ C_FLAGS =   -std=gnu99
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/binh/CTEST 
+C_INCLUDES = -I/home/binh/Desktop/Ctest 
 
