@@ -62,14 +62,15 @@ int cc = 0;
     switch(tag){
       case (int_tag):
         for (int i = 0; i < cvector_size(data); ++i) {
-        if ( p(data+i,int_tag) ) {
+        int *x=(int*)data;
+        if ( p((void*)(x+i),int_tag) ) {
         ++cc;
         }
         }
         return cc;
       case (double_tag):
-        for (int i = 0; i < cvector_size(data); ++i) {
-        if ( p(data+i,double_tag) ) {
+        for (int i = 0; i < cvector_size(data); ++i) {    
+        if ( p((void*)(((double*)data)+i),double_tag) ) {
         ++cc;
         }
         }
