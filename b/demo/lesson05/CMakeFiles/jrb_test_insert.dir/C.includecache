@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//DebugPrintf/debug_printf.h
+stdarg.h
+-
+stdio.h
+-
+
+..//libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+..//libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/binh/CAdvanced/demo/lesson05/jrb_test_insert.c
+libfdr/jrb.h
+/home/binh/CAdvanced/demo/lesson05/libfdr/jrb.h
+libfdr/jval.h
+/home/binh/CAdvanced/demo/lesson05/libfdr/jval.h
+DebugPrintf/debug_printf.h
+/home/binh/CAdvanced/demo/lesson05/DebugPrintf/debug_printf.h
+

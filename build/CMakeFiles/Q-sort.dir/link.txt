@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/Q-sort.dir/sources/QsortMain.c.o  -o Q-sort lib/libQsort.a 

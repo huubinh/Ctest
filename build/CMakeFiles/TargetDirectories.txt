@@ -1,6 +1,0 @@
-/home/binh/Desktop/Ctest/build/CMakeFiles/rebuild_cache.dir
-/home/binh/Desktop/Ctest/build/CMakeFiles/Q-sort.dir
-/home/binh/Desktop/Ctest/build/CMakeFiles/edit_cache.dir
-/home/binh/Desktop/Ctest/build/lib/CMakeFiles/rebuild_cache.dir
-/home/binh/Desktop/Ctest/build/lib/CMakeFiles/Qsort.dir
-/home/binh/Desktop/Ctest/build/lib/CMakeFiles/edit_cache.dir

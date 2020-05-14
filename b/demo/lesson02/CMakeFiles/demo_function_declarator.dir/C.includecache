@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/binh/CAdvanced/demo/lesson02/foo.c
+
+/home/binh/CAdvanced/demo/lesson02/function_declarator.c
+stdio.h
+-
+

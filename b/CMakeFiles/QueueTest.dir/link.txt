@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/QueueTest.dir/mycode/cqueue_t1.c.o CMakeFiles/QueueTest.dir/concode/cqueue.c.o  -o QueueTest libfdr/libfdr.a 

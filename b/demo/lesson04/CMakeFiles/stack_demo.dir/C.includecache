@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//demo/lesson04/cstack.h
+libfdr/dllist.h
+../demo/lesson04/libfdr/dllist.h
+libfdr/jval.h
+../demo/lesson04/libfdr/jval.h
+
+..//libfdr/dllist.h
+jval.h
+../libfdr/jval.h
+
+..//libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/binh/CAdvanced/demo/lesson04/examples/cstack_example.c
+stdio.h
+-
+demo/lesson04/cstack.h
+/home/binh/CAdvanced/demo/lesson04/examples/demo/lesson04/cstack.h
+

@@ -1,1 +1,0 @@
-add_library(Qsort STATIC Qsort.c)

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//libfdr/dllist.h
+jval.h
+../libfdr/jval.h
+
+..//libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/binh/CAdvanced/mycode/cqueue.c
+cqueue.h
+/home/binh/CAdvanced/mycode/cqueue.h
+
+/home/binh/CAdvanced/mycode/cqueue.h
+stddef.h
+-
+libfdr/dllist.h
+/home/binh/CAdvanced/mycode/libfdr/dllist.h
+libfdr/jval.h
+/home/binh/CAdvanced/mycode/libfdr/jval.h
+
+/home/binh/CAdvanced/mycode/cqueue_t1.c
+stdio.h
+-
+cqueue.h
+/home/binh/CAdvanced/mycode/cqueue.h
+

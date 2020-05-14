@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//libfdr/jval.h
+
+/home/binh/CAdvanced/demo/lesson02/jval_demo.c
+stdio.h
+-
+libfdr/jval.h
+/home/binh/CAdvanced/demo/lesson02/libfdr/jval.h
+
