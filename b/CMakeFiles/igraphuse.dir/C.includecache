@@ -1064,7 +1064,7 @@ igraph_types.h
 igraph_datatype.h
 ../igraph/igraph_datatype.h
 
-/home/binh/CAdvanced/mycode/igraphuse.c
+/home/sinhvien/Ctest/mycode/igraphuse.c
 stdio.h
 -
 stdlib.h

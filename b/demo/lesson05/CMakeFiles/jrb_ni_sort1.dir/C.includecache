@@ -16,7 +16,7 @@ jval.h
 
 ../libfdr/jval.h
 
-/home/binh/CAdvanced/demo/lesson05/jrb_ni_sort1.c
+/home/sinhvien/Ctest/demo/lesson05/jrb_ni_sort1.c
 stdio.h
 -
 string.h
@@ -24,7 +24,7 @@ string.h
 stdlib.h
 -
 jrb.h
-/home/binh/CAdvanced/demo/lesson05/jrb.h
+/home/sinhvien/Ctest/demo/lesson05/jrb.h
 fields.h
-/home/binh/CAdvanced/demo/lesson05/fields.h
+/home/sinhvien/Ctest/demo/lesson05/fields.h
 

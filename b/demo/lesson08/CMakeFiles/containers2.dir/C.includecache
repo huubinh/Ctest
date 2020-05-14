@@ -34,19 +34,19 @@ jval.h
 
 ../libfdr/jval.h
 
-/home/binh/CAdvanced/demo/lesson08/containers2.c
+/home/sinhvien/Ctest/demo/lesson08/containers2.c
 c-vector/cvector.h
-/home/binh/CAdvanced/demo/lesson08/c-vector/cvector.h
+/home/sinhvien/Ctest/demo/lesson08/c-vector/cvector.h
 libfdr/dllist.h
-/home/binh/CAdvanced/demo/lesson08/libfdr/dllist.h
+/home/sinhvien/Ctest/demo/lesson08/libfdr/dllist.h
 libfdr/jrb.h
-/home/binh/CAdvanced/demo/lesson08/libfdr/jrb.h
+/home/sinhvien/Ctest/demo/lesson08/libfdr/jrb.h
 libfdr/jval.h
-/home/binh/CAdvanced/demo/lesson08/libfdr/jval.h
+/home/sinhvien/Ctest/demo/lesson08/libfdr/jval.h
 DebugPrintf/debug_printf.h
-/home/binh/CAdvanced/demo/lesson08/DebugPrintf/debug_printf.h
+/home/sinhvien/Ctest/demo/lesson08/DebugPrintf/debug_printf.h
 mylib/containers.h
-/home/binh/CAdvanced/demo/lesson08/mylib/containers.h
+/home/sinhvien/Ctest/demo/lesson08/mylib/containers.h
 stdio.h
 -
 

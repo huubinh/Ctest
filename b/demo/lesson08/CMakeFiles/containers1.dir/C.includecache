@@ -20,11 +20,11 @@ jval.h
 
 ../libfdr/jval.h
 
-/home/binh/CAdvanced/demo/lesson08/containers1.c
+/home/sinhvien/Ctest/demo/lesson08/containers1.c
 libfdr/dllist.h
-/home/binh/CAdvanced/demo/lesson08/libfdr/dllist.h
+/home/sinhvien/Ctest/demo/lesson08/libfdr/dllist.h
 DebugPrintf/debug_printf.h
-/home/binh/CAdvanced/demo/lesson08/DebugPrintf/debug_printf.h
+/home/sinhvien/Ctest/demo/lesson08/DebugPrintf/debug_printf.h
 mylib/containers.h
-/home/binh/CAdvanced/demo/lesson08/mylib/containers.h
+/home/sinhvien/Ctest/demo/lesson08/mylib/containers.h
 

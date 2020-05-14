@@ -1,4 +1,4 @@
-# Install script for directory: /home/binh/CAdvanced/demo/lesson02
+# Install script for directory: /home/sinhvien/Ctest/demo/lesson02
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

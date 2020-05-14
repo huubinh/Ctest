@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/binh/CAdvanced/libfdr/dllist.c" "/home/binh/CAdvanced/b/libfdr/CMakeFiles/fdr.dir/dllist.c.o"
-  "/home/binh/CAdvanced/libfdr/fields.c" "/home/binh/CAdvanced/b/libfdr/CMakeFiles/fdr.dir/fields.c.o"
-  "/home/binh/CAdvanced/libfdr/jrb.c" "/home/binh/CAdvanced/b/libfdr/CMakeFiles/fdr.dir/jrb.c.o"
-  "/home/binh/CAdvanced/libfdr/jval.c" "/home/binh/CAdvanced/b/libfdr/CMakeFiles/fdr.dir/jval.c.o"
+  "/home/sinhvien/Ctest/libfdr/dllist.c" "/home/sinhvien/Ctest/b/libfdr/CMakeFiles/fdr.dir/dllist.c.o"
+  "/home/sinhvien/Ctest/libfdr/fields.c" "/home/sinhvien/Ctest/b/libfdr/CMakeFiles/fdr.dir/fields.c.o"
+  "/home/sinhvien/Ctest/libfdr/jrb.c" "/home/sinhvien/Ctest/b/libfdr/CMakeFiles/fdr.dir/jrb.c.o"
+  "/home/sinhvien/Ctest/libfdr/jval.c" "/home/sinhvien/Ctest/b/libfdr/CMakeFiles/fdr.dir/jval.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

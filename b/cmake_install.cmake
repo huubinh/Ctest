@@ -1,4 +1,4 @@
-# Install script for directory: /home/binh/CAdvanced
+# Install script for directory: /home/sinhvien/Ctest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,15 +39,15 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/binh/CAdvanced/b/DebugPrintf/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/libfdr/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson02/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson03/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson04/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson05/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson06/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/demo/lesson08/cmake_install.cmake")
-  include("/home/binh/CAdvanced/b/cmake-btree/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/DebugPrintf/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/libfdr/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson02/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson03/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson04/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson05/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson06/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/demo/lesson08/cmake_install.cmake")
+  include("/home/sinhvien/Ctest/b/cmake-btree/cmake_install.cmake")
 
 endif()
 
@@ -59,5 +59,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/binh/CAdvanced/b/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sinhvien/Ctest/b/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -10,19 +10,33 @@
 jval.h
 ../libfdr/jval.h
 
+..//libfdr/jval.h
+
 ..//mylib/containers.h
 
 ../libfdr/jval.h
 
-/home/binh/CAdvanced/mycode/cjset.h
-libfdr/jrb.h
-/home/binh/CAdvanced/mycode/libfdr/jrb.h
-
-/home/binh/CAdvanced/mycode/cjset_t1.c
+/home/sinhvien/Ctest/mycode/cjset.c
+stddef.h
+-
+string.h
+-
+stdlib.h
+-
 cjset.h
-/home/binh/CAdvanced/mycode/cjset.h
+/home/sinhvien/Ctest/mycode/cjset.h
+libfdr/jval.h
+/home/sinhvien/Ctest/mycode/libfdr/jval.h
+
+/home/sinhvien/Ctest/mycode/cjset.h
+libfdr/jrb.h
+/home/sinhvien/Ctest/mycode/libfdr/jrb.h
+
+/home/sinhvien/Ctest/mycode/cjset_t1.c
+cjset.h
+/home/sinhvien/Ctest/mycode/cjset.h
 mylib/containers.h
-/home/binh/CAdvanced/mycode/mylib/containers.h
+/home/sinhvien/Ctest/mycode/mylib/containers.h
 stdio.h
 -
 stdlib.h

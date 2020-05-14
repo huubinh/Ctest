@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/binh/CAdvanced/mycode/order.c" "/home/binh/CAdvanced/b/CMakeFiles/order.dir/mycode/order.c.o"
-  "/home/binh/CAdvanced/mycode/order_t1.c" "/home/binh/CAdvanced/b/CMakeFiles/order.dir/mycode/order_t1.c.o"
+  "/home/sinhvien/Ctest/mycode/order.c" "/home/sinhvien/Ctest/b/CMakeFiles/order.dir/mycode/order.c.o"
+  "/home/sinhvien/Ctest/mycode/order_t1.c" "/home/sinhvien/Ctest/b/CMakeFiles/order.dir/mycode/order_t1.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

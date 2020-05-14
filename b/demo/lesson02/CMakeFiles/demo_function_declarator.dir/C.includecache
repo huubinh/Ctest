@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/binh/CAdvanced/demo/lesson02/foo.c
+/home/sinhvien/Ctest/demo/lesson02/foo.c
 
-/home/binh/CAdvanced/demo/lesson02/function_declarator.c
+/home/sinhvien/Ctest/demo/lesson02/function_declarator.c
 stdio.h
 -
 

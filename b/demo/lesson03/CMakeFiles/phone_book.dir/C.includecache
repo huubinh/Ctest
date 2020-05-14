@@ -20,11 +20,11 @@ stddef.h
 stdlib.h
 -
 
-/home/binh/CAdvanced/demo/lesson03/phone_book.c
+/home/sinhvien/Ctest/demo/lesson03/phone_book.c
 string.h
 -
 c-vector/cvector.h
-/home/binh/CAdvanced/demo/lesson03/c-vector/cvector.h
+/home/sinhvien/Ctest/demo/lesson03/c-vector/cvector.h
 DebugPrintf/debug_printf.h
-/home/binh/CAdvanced/demo/lesson03/DebugPrintf/debug_printf.h
+/home/sinhvien/Ctest/demo/lesson03/DebugPrintf/debug_printf.h
 

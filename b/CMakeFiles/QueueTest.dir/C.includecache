@@ -22,23 +22,23 @@ libfdr/jval.h
 
 ../libfdr/jval.h
 
-/home/binh/CAdvanced/concode/cqueue.c
+/home/sinhvien/Ctest/concode/cqueue.c
 stdio.h
 -
 mycode/cqueue.h
-/home/binh/CAdvanced/concode/mycode/cqueue.h
+/home/sinhvien/Ctest/concode/mycode/cqueue.h
 
-/home/binh/CAdvanced/mycode/cqueue.h
+/home/sinhvien/Ctest/mycode/cqueue.h
 stddef.h
 -
 libfdr/dllist.h
-/home/binh/CAdvanced/mycode/libfdr/dllist.h
+/home/sinhvien/Ctest/mycode/libfdr/dllist.h
 libfdr/jval.h
-/home/binh/CAdvanced/mycode/libfdr/jval.h
+/home/sinhvien/Ctest/mycode/libfdr/jval.h
 
-/home/binh/CAdvanced/mycode/cqueue_t1.c
+/home/sinhvien/Ctest/mycode/cqueue_t1.c
 stdio.h
 -
 cqueue.h
-/home/binh/CAdvanced/mycode/cqueue.h
+/home/sinhvien/Ctest/mycode/cqueue.h
 

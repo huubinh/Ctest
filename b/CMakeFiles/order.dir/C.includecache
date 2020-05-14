@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/binh/CAdvanced/mycode/order.c
+/home/sinhvien/Ctest/mycode/order.c
 string.h
 -
 stdio.h
 -
 order.h
-/home/binh/CAdvanced/mycode/order.h
+/home/sinhvien/Ctest/mycode/order.h
 stdlib.h
 -
 
-/home/binh/CAdvanced/mycode/order.h
+/home/sinhvien/Ctest/mycode/order.h
 
-/home/binh/CAdvanced/mycode/order_t1.c
+/home/sinhvien/Ctest/mycode/order_t1.c
 order.h
-/home/binh/CAdvanced/mycode/order.h
+/home/sinhvien/Ctest/mycode/order.h
 stdio.h
 -
 

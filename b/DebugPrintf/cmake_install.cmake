@@ -1,4 +1,4 @@
-# Install script for directory: /home/binh/CAdvanced/DebugPrintf
+# Install script for directory: /home/sinhvien/Ctest/DebugPrintf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
