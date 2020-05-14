@@ -20,7 +20,7 @@ stdio.h
 bc.h
 ../cmake-btree/inc/bc.h
 
-/home/sinhvien/Ctest/mycode/readbt.c
+/home/binh/Desktop/Ctest/mycode/readbt.c
 stdio.h
 -
 string.h
@@ -28,5 +28,5 @@ string.h
 stdlib.h
 -
 cmake-btree/inc/btree.h
-/home/sinhvien/Ctest/mycode/cmake-btree/inc/btree.h
+/home/binh/Desktop/Ctest/mycode/cmake-btree/inc/btree.h
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/sinhvien/Ctest/DebugPrintf/debug_printf.c
+/home/binh/Desktop/Ctest/DebugPrintf/debug_printf.c
 stdarg.h
 -
 stdio.h
@@ -18,9 +18,9 @@ string.h
 time.h
 -
 debug_printf.h
-/home/sinhvien/Ctest/DebugPrintf/debug_printf.h
+/home/binh/Desktop/Ctest/DebugPrintf/debug_printf.h
 
-/home/sinhvien/Ctest/DebugPrintf/debug_printf.h
+/home/binh/Desktop/Ctest/DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h

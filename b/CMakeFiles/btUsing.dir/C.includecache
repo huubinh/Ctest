@@ -20,9 +20,9 @@ stdio.h
 bc.h
 ../cmake-btree/inc/bc.h
 
-/home/sinhvien/Ctest/mycode/btUsing.c
+/home/binh/Desktop/Ctest/mycode/btUsing.c
 stdlib.h
 -
 cmake-btree/inc/btree.h
-/home/sinhvien/Ctest/mycode/cmake-btree/inc/btree.h
+/home/binh/Desktop/Ctest/mycode/cmake-btree/inc/btree.h
 

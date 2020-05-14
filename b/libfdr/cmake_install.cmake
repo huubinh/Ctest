@@ -1,4 +1,4 @@
-# Install script for directory: /home/sinhvien/Ctest/libfdr
+# Install script for directory: /home/binh/Desktop/Ctest/libfdr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

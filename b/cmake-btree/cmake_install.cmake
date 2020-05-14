@@ -1,4 +1,4 @@
-# Install script for directory: /home/sinhvien/Ctest/cmake-btree
+# Install script for directory: /home/binh/Desktop/Ctest/cmake-btree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
