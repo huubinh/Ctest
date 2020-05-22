@@ -81,7 +81,7 @@ all: CMakeFiles/jrbtest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/jrbtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/jrbtest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : CMakeFiles/jrbtest.dir/rule
@@ -118,7 +118,7 @@ all: CMakeFiles/queueTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/queueTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/queueTest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : CMakeFiles/queueTest.dir/rule
@@ -192,7 +192,7 @@ all: CMakeFiles/QueueTest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/QueueTest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/QueueTest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : CMakeFiles/QueueTest.dir/rule
@@ -219,7 +219,7 @@ clean: CMakeFiles/QueueTest.dir/clean
 CMakeFiles/demo_debug_printf.dir/all: DebugPrintf/CMakeFiles/debug_printf.dir/all
 	$(MAKE) -f CMakeFiles/demo_debug_printf.dir/build.make CMakeFiles/demo_debug_printf.dir/depend
 	$(MAKE) -f CMakeFiles/demo_debug_printf.dir/build.make CMakeFiles/demo_debug_printf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=51 "Built target demo_debug_printf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=52 "Built target demo_debug_printf"
 .PHONY : CMakeFiles/demo_debug_printf.dir/all
 
 # Include target in all.
@@ -256,7 +256,7 @@ clean: CMakeFiles/demo_debug_printf.dir/clean
 CMakeFiles/igraphuse.dir/all:
 	$(MAKE) -f CMakeFiles/igraphuse.dir/build.make CMakeFiles/igraphuse.dir/depend
 	$(MAKE) -f CMakeFiles/igraphuse.dir/build.make CMakeFiles/igraphuse.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=65 "Built target igraphuse"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=66 "Built target igraphuse"
 .PHONY : CMakeFiles/igraphuse.dir/all
 
 # Include target in all.
@@ -293,7 +293,7 @@ clean: CMakeFiles/igraphuse.dir/clean
 CMakeFiles/btUsing.dir/all: cmake-btree/CMakeFiles/bt.dir/all
 	$(MAKE) -f CMakeFiles/btUsing.dir/build.make CMakeFiles/btUsing.dir/depend
 	$(MAKE) -f CMakeFiles/btUsing.dir/build.make CMakeFiles/btUsing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=44 "Built target btUsing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=43,44 "Built target btUsing"
 .PHONY : CMakeFiles/btUsing.dir/all
 
 # Include target in all.
@@ -324,50 +324,13 @@ clean: CMakeFiles/btUsing.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/readbt.dir
-
-# All Build rule for target.
-CMakeFiles/readbt.dir/all: cmake-btree/CMakeFiles/bt.dir/all
-	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/depend
-	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=84,85 "Built target readbt"
-.PHONY : CMakeFiles/readbt.dir/all
-
-# Include target in all.
-all: CMakeFiles/readbt.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/readbt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 43
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/readbt.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
-.PHONY : CMakeFiles/readbt.dir/rule
-
-# Convenience name for target.
-readbt: CMakeFiles/readbt.dir/rule
-
-.PHONY : readbt
-
-# clean rule for target.
-CMakeFiles/readbt.dir/clean:
-	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/clean
-.PHONY : CMakeFiles/readbt.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/readbt.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/topo.dir
 
 # All Build rule for target.
 CMakeFiles/topo.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f CMakeFiles/topo.dir/build.make CMakeFiles/topo.dir/depend
 	$(MAKE) -f CMakeFiles/topo.dir/build.make CMakeFiles/topo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=92 "Built target topo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=92,93 "Built target topo"
 .PHONY : CMakeFiles/topo.dir/all
 
 # Include target in all.
@@ -377,7 +340,7 @@ all: CMakeFiles/topo.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/topo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/topo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : CMakeFiles/topo.dir/rule
@@ -415,7 +378,7 @@ all: CMakeFiles/shortpath.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/shortpath.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/shortpath.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : CMakeFiles/shortpath.dir/rule
@@ -432,6 +395,81 @@ CMakeFiles/shortpath.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/shortpath.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/readbt.dir
+
+# All Build rule for target.
+CMakeFiles/readbt.dir/all: cmake-btree/CMakeFiles/bt.dir/all
+	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/depend
+	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=84,85 "Built target readbt"
+.PHONY : CMakeFiles/readbt.dir/all
+
+# Include target in all.
+all: CMakeFiles/readbt.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/readbt.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 42
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/readbt.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
+.PHONY : CMakeFiles/readbt.dir/rule
+
+# Convenience name for target.
+readbt: CMakeFiles/readbt.dir/rule
+
+.PHONY : readbt
+
+# clean rule for target.
+CMakeFiles/readbt.dir/clean:
+	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/clean
+.PHONY : CMakeFiles/readbt.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/readbt.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/bus.dir
+
+# All Build rule for target.
+CMakeFiles/bus.dir/all: DebugPrintf/CMakeFiles/debug_printf.dir/all
+CMakeFiles/bus.dir/all: libfdr/CMakeFiles/fdr.dir/all
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/depend
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=45 "Built target bus"
+.PHONY : CMakeFiles/bus.dir/all
+
+# Include target in all.
+all: CMakeFiles/bus.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/bus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/bus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
+.PHONY : CMakeFiles/bus.dir/rule
+
+# Convenience name for target.
+bus: CMakeFiles/bus.dir/rule
+
+.PHONY : bus
+
+# clean rule for target.
+CMakeFiles/bus.dir/clean:
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/clean
+.PHONY : CMakeFiles/bus.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/bus.dir/clean
 
 .PHONY : clean
 
@@ -460,7 +498,7 @@ DebugPrintf/preinstall:
 DebugPrintf/CMakeFiles/debug_printf.dir/all:
 	$(MAKE) -f DebugPrintf/CMakeFiles/debug_printf.dir/build.make DebugPrintf/CMakeFiles/debug_printf.dir/depend
 	$(MAKE) -f DebugPrintf/CMakeFiles/debug_printf.dir/build.make DebugPrintf/CMakeFiles/debug_printf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=49,50 "Built target debug_printf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=50,51 "Built target debug_printf"
 .PHONY : DebugPrintf/CMakeFiles/debug_printf.dir/all
 
 # Include target in all.
@@ -515,7 +553,7 @@ libfdr/preinstall:
 libfdr/CMakeFiles/fdr.dir/all:
 	$(MAKE) -f libfdr/CMakeFiles/fdr.dir/build.make libfdr/CMakeFiles/fdr.dir/depend
 	$(MAKE) -f libfdr/CMakeFiles/fdr.dir/build.make libfdr/CMakeFiles/fdr.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=56,57,58 "Built target fdr"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=56,57,58,59 "Built target fdr"
 .PHONY : libfdr/CMakeFiles/fdr.dir/all
 
 # Include target in all.
@@ -525,7 +563,7 @@ all: libfdr/CMakeFiles/fdr.dir/all
 
 # Build rule for subdir invocation for target.
 libfdr/CMakeFiles/fdr.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 libfdr/CMakeFiles/fdr.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : libfdr/CMakeFiles/fdr.dir/rule
@@ -590,7 +628,7 @@ all: demo/lesson02/CMakeFiles/jval_demo.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson02/CMakeFiles/jval_demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson02/CMakeFiles/jval_demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson02/CMakeFiles/jval_demo.dir/rule
@@ -617,7 +655,7 @@ clean: demo/lesson02/CMakeFiles/jval_demo.dir/clean
 demo/lesson02/CMakeFiles/fp_demo.dir/all:
 	$(MAKE) -f demo/lesson02/CMakeFiles/fp_demo.dir/build.make demo/lesson02/CMakeFiles/fp_demo.dir/depend
 	$(MAKE) -f demo/lesson02/CMakeFiles/fp_demo.dir/build.make demo/lesson02/CMakeFiles/fp_demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=59,60 "Built target fp_demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=60 "Built target fp_demo"
 .PHONY : demo/lesson02/CMakeFiles/fp_demo.dir/all
 
 # Include target in all.
@@ -627,7 +665,7 @@ all: demo/lesson02/CMakeFiles/fp_demo.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson02/CMakeFiles/fp_demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson02/CMakeFiles/fp_demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson02/CMakeFiles/fp_demo.dir/rule
@@ -654,7 +692,7 @@ clean: demo/lesson02/CMakeFiles/fp_demo.dir/clean
 demo/lesson02/CMakeFiles/demo_function_declarator.dir/all:
 	$(MAKE) -f demo/lesson02/CMakeFiles/demo_function_declarator.dir/build.make demo/lesson02/CMakeFiles/demo_function_declarator.dir/depend
 	$(MAKE) -f demo/lesson02/CMakeFiles/demo_function_declarator.dir/build.make demo/lesson02/CMakeFiles/demo_function_declarator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=52,53 "Built target demo_function_declarator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=53,54 "Built target demo_function_declarator"
 .PHONY : demo/lesson02/CMakeFiles/demo_function_declarator.dir/all
 
 # Include target in all.
@@ -691,7 +729,7 @@ clean: demo/lesson02/CMakeFiles/demo_function_declarator.dir/clean
 demo/lesson02/CMakeFiles/union_demo.dir/all:
 	$(MAKE) -f demo/lesson02/CMakeFiles/union_demo.dir/build.make demo/lesson02/CMakeFiles/union_demo.dir/depend
 	$(MAKE) -f demo/lesson02/CMakeFiles/union_demo.dir/build.make demo/lesson02/CMakeFiles/union_demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=93,94 "Built target union_demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=94 "Built target union_demo"
 .PHONY : demo/lesson02/CMakeFiles/union_demo.dir/all
 
 # Include target in all.
@@ -701,7 +739,7 @@ all: demo/lesson02/CMakeFiles/union_demo.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson02/CMakeFiles/union_demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson02/CMakeFiles/union_demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson02/CMakeFiles/union_demo.dir/rule
@@ -765,7 +803,7 @@ clean: demo/lesson02/CMakeFiles/void_demo.dir/clean
 demo/lesson02/CMakeFiles/fp_demo_generic.dir/all:
 	$(MAKE) -f demo/lesson02/CMakeFiles/fp_demo_generic.dir/build.make demo/lesson02/CMakeFiles/fp_demo_generic.dir/depend
 	$(MAKE) -f demo/lesson02/CMakeFiles/fp_demo_generic.dir/build.make demo/lesson02/CMakeFiles/fp_demo_generic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=61 "Built target fp_demo_generic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=61,62 "Built target fp_demo_generic"
 .PHONY : demo/lesson02/CMakeFiles/fp_demo_generic.dir/all
 
 # Include target in all.
@@ -775,7 +813,7 @@ all: demo/lesson02/CMakeFiles/fp_demo_generic.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson02/CMakeFiles/fp_demo_generic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson02/CMakeFiles/fp_demo_generic.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson02/CMakeFiles/fp_demo_generic.dir/rule
@@ -1009,7 +1047,7 @@ all: demo/lesson04/CMakeFiles/test_dllist_insert_b.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson04/CMakeFiles/test_dllist_insert_b.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson04/CMakeFiles/test_dllist_insert_b.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson04/CMakeFiles/test_dllist_insert_b.dir/rule
@@ -1037,7 +1075,7 @@ demo/lesson04/CMakeFiles/dllist_demo.dir/all: DebugPrintf/CMakeFiles/debug_print
 demo/lesson04/CMakeFiles/dllist_demo.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson04/CMakeFiles/dllist_demo.dir/build.make demo/lesson04/CMakeFiles/dllist_demo.dir/depend
 	$(MAKE) -f demo/lesson04/CMakeFiles/dllist_demo.dir/build.make demo/lesson04/CMakeFiles/dllist_demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=54,55 "Built target dllist_demo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=55 "Built target dllist_demo"
 .PHONY : demo/lesson04/CMakeFiles/dllist_demo.dir/all
 
 # Include target in all.
@@ -1084,7 +1122,7 @@ all: demo/lesson04/CMakeFiles/stack_demo.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson04/CMakeFiles/stack_demo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson04/CMakeFiles/stack_demo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson04/CMakeFiles/stack_demo.dir/rule
@@ -1122,7 +1160,7 @@ all: demo/lesson04/CMakeFiles/test_dllist.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson04/CMakeFiles/test_dllist.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson04/CMakeFiles/test_dllist.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson04/CMakeFiles/test_dllist.dir/rule
@@ -1188,7 +1226,7 @@ all: demo/lesson05/CMakeFiles/jrb_test_insert_gen.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson05/CMakeFiles/jrb_test_insert_gen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson05/CMakeFiles/jrb_test_insert_gen.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson05/CMakeFiles/jrb_test_insert_gen.dir/rule
@@ -1215,7 +1253,7 @@ clean: demo/lesson05/CMakeFiles/jrb_test_insert_gen.dir/clean
 demo/lesson05/CMakeFiles/jrb_strsort_file.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort_file.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort_file.dir/depend
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort_file.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort_file.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=69,70 "Built target jrb_strsort_file"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=70 "Built target jrb_strsort_file"
 .PHONY : demo/lesson05/CMakeFiles/jrb_strsort_file.dir/all
 
 # Include target in all.
@@ -1252,7 +1290,7 @@ clean: demo/lesson05/CMakeFiles/jrb_strsort_file.dir/clean
 demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/depend
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=71 "Built target jrb_strsort_pipe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=71,72 "Built target jrb_strsort_pipe"
 .PHONY : demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/all
 
 # Include target in all.
@@ -1262,7 +1300,7 @@ all: demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/rule
@@ -1289,7 +1327,7 @@ clean: demo/lesson05/CMakeFiles/jrb_strsort_pipe.dir/clean
 demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/build.make demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/depend
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/build.make demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=66,67 "Built target jrb_ni_sort1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=67 "Built target jrb_ni_sort1"
 .PHONY : demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/all
 
 # Include target in all.
@@ -1326,7 +1364,7 @@ clean: demo/lesson05/CMakeFiles/jrb_ni_sort1.dir/clean
 demo/lesson05/CMakeFiles/jrb_strsort.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort.dir/depend
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_strsort.dir/build.make demo/lesson05/CMakeFiles/jrb_strsort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=68 "Built target jrb_strsort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=68,69 "Built target jrb_strsort"
 .PHONY : demo/lesson05/CMakeFiles/jrb_strsort.dir/all
 
 # Include target in all.
@@ -1336,7 +1374,7 @@ all: demo/lesson05/CMakeFiles/jrb_strsort.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson05/CMakeFiles/jrb_strsort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson05/CMakeFiles/jrb_strsort.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson05/CMakeFiles/jrb_strsort.dir/rule
@@ -1364,7 +1402,7 @@ demo/lesson05/CMakeFiles/jrb_test_insert.dir/all: DebugPrintf/CMakeFiles/debug_p
 demo/lesson05/CMakeFiles/jrb_test_insert.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_test_insert.dir/build.make demo/lesson05/CMakeFiles/jrb_test_insert.dir/depend
 	$(MAKE) -f demo/lesson05/CMakeFiles/jrb_test_insert.dir/build.make demo/lesson05/CMakeFiles/jrb_test_insert.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=72,73 "Built target jrb_test_insert"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=73 "Built target jrb_test_insert"
 .PHONY : demo/lesson05/CMakeFiles/jrb_test_insert.dir/all
 
 # Include target in all.
@@ -1420,7 +1458,7 @@ demo/lesson06/CMakeFiles/containers.dir/all: DebugPrintf/CMakeFiles/debug_printf
 demo/lesson06/CMakeFiles/containers.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson06/CMakeFiles/containers.dir/build.make demo/lesson06/CMakeFiles/containers.dir/depend
 	$(MAKE) -f demo/lesson06/CMakeFiles/containers.dir/build.make demo/lesson06/CMakeFiles/containers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=45,46 "Built target containers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=46 "Built target containers"
 .PHONY : demo/lesson06/CMakeFiles/containers.dir/all
 
 # Include target in all.
@@ -1482,7 +1520,7 @@ demo/lesson08/CMakeFiles/containers2.dir/all: DebugPrintf/CMakeFiles/debug_print
 demo/lesson08/CMakeFiles/containers2.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson08/CMakeFiles/containers2.dir/build.make demo/lesson08/CMakeFiles/containers2.dir/depend
 	$(MAKE) -f demo/lesson08/CMakeFiles/containers2.dir/build.make demo/lesson08/CMakeFiles/containers2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=48 "Built target containers2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=49 "Built target containers2"
 .PHONY : demo/lesson08/CMakeFiles/containers2.dir/all
 
 # Include target in all.
@@ -1492,7 +1530,7 @@ all: demo/lesson08/CMakeFiles/containers2.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson08/CMakeFiles/containers2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson08/CMakeFiles/containers2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson08/CMakeFiles/containers2.dir/rule
@@ -1520,7 +1558,7 @@ demo/lesson08/CMakeFiles/containers1.dir/all: DebugPrintf/CMakeFiles/debug_print
 demo/lesson08/CMakeFiles/containers1.dir/all: libfdr/CMakeFiles/fdr.dir/all
 	$(MAKE) -f demo/lesson08/CMakeFiles/containers1.dir/build.make demo/lesson08/CMakeFiles/containers1.dir/depend
 	$(MAKE) -f demo/lesson08/CMakeFiles/containers1.dir/build.make demo/lesson08/CMakeFiles/containers1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=47 "Built target containers1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=47,48 "Built target containers1"
 .PHONY : demo/lesson08/CMakeFiles/containers1.dir/all
 
 # Include target in all.
@@ -1530,7 +1568,7 @@ all: demo/lesson08/CMakeFiles/containers1.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson08/CMakeFiles/containers1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson08/CMakeFiles/containers1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson08/CMakeFiles/containers1.dir/rule
@@ -1557,7 +1595,7 @@ clean: demo/lesson08/CMakeFiles/containers1.dir/clean
 demo/lesson08/CMakeFiles/graph_adjacency.dir/all:
 	$(MAKE) -f demo/lesson08/CMakeFiles/graph_adjacency.dir/build.make demo/lesson08/CMakeFiles/graph_adjacency.dir/depend
 	$(MAKE) -f demo/lesson08/CMakeFiles/graph_adjacency.dir/build.make demo/lesson08/CMakeFiles/graph_adjacency.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=62,63 "Built target graph_adjacency"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=63 "Built target graph_adjacency"
 .PHONY : demo/lesson08/CMakeFiles/graph_adjacency.dir/all
 
 # Include target in all.
@@ -1567,7 +1605,7 @@ all: demo/lesson08/CMakeFiles/graph_adjacency.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson08/CMakeFiles/graph_adjacency.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson08/CMakeFiles/graph_adjacency.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson08/CMakeFiles/graph_adjacency.dir/rule
@@ -1594,7 +1632,7 @@ clean: demo/lesson08/CMakeFiles/graph_adjacency.dir/clean
 demo/lesson08/CMakeFiles/graph_basics.dir/all:
 	$(MAKE) -f demo/lesson08/CMakeFiles/graph_basics.dir/build.make demo/lesson08/CMakeFiles/graph_basics.dir/depend
 	$(MAKE) -f demo/lesson08/CMakeFiles/graph_basics.dir/build.make demo/lesson08/CMakeFiles/graph_basics.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=64 "Built target graph_basics"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=64,65 "Built target graph_basics"
 .PHONY : demo/lesson08/CMakeFiles/graph_basics.dir/all
 
 # Include target in all.
@@ -1604,7 +1642,7 @@ all: demo/lesson08/CMakeFiles/graph_basics.dir/all
 
 # Build rule for subdir invocation for target.
 demo/lesson08/CMakeFiles/graph_basics.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 demo/lesson08/CMakeFiles/graph_basics.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : demo/lesson08/CMakeFiles/graph_basics.dir/rule
@@ -1649,7 +1687,7 @@ cmake-btree/preinstall:
 cmake-btree/CMakeFiles/bt.dir/all:
 	$(MAKE) -f cmake-btree/CMakeFiles/bt.dir/build.make cmake-btree/CMakeFiles/bt.dir/depend
 	$(MAKE) -f cmake-btree/CMakeFiles/bt.dir/build.make cmake-btree/CMakeFiles/bt.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43 "Built target bt"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/binh/Desktop/Ctest/b/CMakeFiles --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42 "Built target bt"
 .PHONY : cmake-btree/CMakeFiles/bt.dir/all
 
 # Include target in all.
@@ -1659,7 +1697,7 @@ all: cmake-btree/CMakeFiles/bt.dir/all
 
 # Build rule for subdir invocation for target.
 cmake-btree/CMakeFiles/bt.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 41
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 40
 	$(MAKE) -f CMakeFiles/Makefile2 cmake-btree/CMakeFiles/bt.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/binh/Desktop/Ctest/b/CMakeFiles 0
 .PHONY : cmake-btree/CMakeFiles/bt.dir/rule

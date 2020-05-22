@@ -202,19 +202,6 @@ btUsing/fast:
 .PHONY : btUsing/fast
 
 #=============================================================================
-# Target rules for targets named readbt
-
-# Build rule for target.
-readbt: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 readbt
-.PHONY : readbt
-
-# fast build rule for target.
-readbt/fast:
-	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/build
-.PHONY : readbt/fast
-
-#=============================================================================
 # Target rules for targets named topo
 
 # Build rule for target.
@@ -239,6 +226,32 @@ shortpath: cmake_check_build_system
 shortpath/fast:
 	$(MAKE) -f CMakeFiles/shortpath.dir/build.make CMakeFiles/shortpath.dir/build
 .PHONY : shortpath/fast
+
+#=============================================================================
+# Target rules for targets named readbt
+
+# Build rule for target.
+readbt: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 readbt
+.PHONY : readbt
+
+# fast build rule for target.
+readbt/fast:
+	$(MAKE) -f CMakeFiles/readbt.dir/build.make CMakeFiles/readbt.dir/build
+.PHONY : readbt/fast
+
+#=============================================================================
+# Target rules for targets named bus
+
+# Build rule for target.
+bus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 bus
+.PHONY : bus
+
+# fast build rule for target.
+bus/fast:
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/build
+.PHONY : bus/fast
 
 #=============================================================================
 # Target rules for targets named debug_printf
@@ -658,6 +671,33 @@ demo/environment/demo_debug_printf.c.s:
 	$(MAKE) -f CMakeFiles/demo_debug_printf.dir/build.make CMakeFiles/demo_debug_printf.dir/demo/environment/demo_debug_printf.c.s
 .PHONY : demo/environment/demo_debug_printf.c.s
 
+maicot/bus.o: maicot/bus.c.o
+
+.PHONY : maicot/bus.o
+
+# target to build an object file
+maicot/bus.c.o:
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/maicot/bus.c.o
+.PHONY : maicot/bus.c.o
+
+maicot/bus.i: maicot/bus.c.i
+
+.PHONY : maicot/bus.i
+
+# target to preprocess a source file
+maicot/bus.c.i:
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/maicot/bus.c.i
+.PHONY : maicot/bus.c.i
+
+maicot/bus.s: maicot/bus.c.s
+
+.PHONY : maicot/bus.s
+
+# target to generate assembly for a file
+maicot/bus.c.s:
+	$(MAKE) -f CMakeFiles/bus.dir/build.make CMakeFiles/bus.dir/maicot/bus.c.s
+.PHONY : maicot/bus.c.s
+
 mycode/btUsing.o: mycode/btUsing.c.o
 
 .PHONY : mycode/btUsing.o
@@ -964,6 +1004,7 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... edit_cache"
 	@echo "... jrbtest"
 	@echo "... queueTest"
 	@echo "... order"
@@ -971,11 +1012,11 @@ help:
 	@echo "... demo_debug_printf"
 	@echo "... igraphuse"
 	@echo "... btUsing"
-	@echo "... edit_cache"
-	@echo "... rebuild_cache"
-	@echo "... readbt"
 	@echo "... topo"
 	@echo "... shortpath"
+	@echo "... rebuild_cache"
+	@echo "... readbt"
+	@echo "... bus"
 	@echo "... debug_printf"
 	@echo "... fdr"
 	@echo "... jval_demo"
@@ -1010,6 +1051,9 @@ help:
 	@echo "... demo/environment/demo_debug_printf.o"
 	@echo "... demo/environment/demo_debug_printf.i"
 	@echo "... demo/environment/demo_debug_printf.s"
+	@echo "... maicot/bus.o"
+	@echo "... maicot/bus.i"
+	@echo "... maicot/bus.s"
 	@echo "... mycode/btUsing.o"
 	@echo "... mycode/btUsing.i"
 	@echo "... mycode/btUsing.s"

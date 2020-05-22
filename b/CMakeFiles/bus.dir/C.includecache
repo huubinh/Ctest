@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//DebugPrintf/debug_printf.h
+stdarg.h
+-
+stdio.h
+-
+
+..//libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/binh/Desktop/Ctest/maicot/bus.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+DebugPrintf/debug_printf.h
+/home/binh/Desktop/Ctest/maicot/DebugPrintf/debug_printf.h
+libfdr/jrb.h
+/home/binh/Desktop/Ctest/maicot/libfdr/jrb.h
+

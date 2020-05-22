@@ -58,3 +58,6 @@ if (USE_IGRAPH)
   target_link_libraries(shortpath ${IGRAPH_LIBS} fdr debug_printf)
 
 endif (USE_IGRAPH)
+
+add_executable(bus maicot/bus.c)
+target_link_libraries(bus fdr debug_printf)
