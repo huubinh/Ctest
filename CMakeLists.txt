@@ -61,3 +61,6 @@ endif (USE_IGRAPH)
 
 add_executable(bus maicot/bus.c)
 target_link_libraries(bus fdr debug_printf)
+
+add_executable(newbus mycode/newbus.c)
+target_link_libraries(newbus fdr debug_printf ${IGRAPH_LIBS})

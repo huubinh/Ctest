@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/binh/Desktop/Ctest/mycode/igraphuse.c" "/home/binh/Desktop/Ctest/b/CMakeFiles/igraphuse.dir/mycode/igraphuse.c.o"
+  "/home/sinhvien/Ctest/mycode/igraphuse.c" "/home/sinhvien/Ctest/b/CMakeFiles/igraphuse.dir/mycode/igraphuse.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

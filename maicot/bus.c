@@ -35,15 +35,7 @@ int main(int argc, char* argv[])
       if(check) i++;
       token = strtok(NULL,"-");
     }
-    /*
-    token = strtok(s,"–");
-    while( token != NULL ) 
-    { 
-      check = jset_insert_str(j1, token, (Jval){.i = i});
-      if(check) i++;
-      token = strtok(NULL,"–");
-    }
-    */
+
   }
   for(JRB ptr = jrb_first(j1); ptr != jrb_nil(j1); ptr = jrb_next(ptr))
       printf("%s\n",ptr->key.s);

@@ -18,7 +18,7 @@ jval.h
 
 ../libfdr/jval.h
 
-/home/binh/Desktop/Ctest/maicot/bus.c
+/home/sinhvien/Ctest/maicot/bus.c
 stdio.h
 -
 stdlib.h
@@ -28,7 +28,7 @@ string.h
 ctype.h
 -
 DebugPrintf/debug_printf.h
-/home/binh/Desktop/Ctest/maicot/DebugPrintf/debug_printf.h
+/home/sinhvien/Ctest/maicot/DebugPrintf/debug_printf.h
 libfdr/jrb.h
-/home/binh/Desktop/Ctest/maicot/libfdr/jrb.h
+/home/sinhvien/Ctest/maicot/libfdr/jrb.h
 
