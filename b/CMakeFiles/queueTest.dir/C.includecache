@@ -6,29 +6,27 @@
 
 #IncludeRegexTransform: 
 
-..//libfdr/dllist.h
+../libfdr/dllist.h
 jval.h
 ../libfdr/jval.h
 
-..//libfdr/jval.h
-
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/cqueue.c
+/home/boong/Ctest/mycode/cqueue.c
 cqueue.h
-/home/sinhvien/Ctest/mycode/cqueue.h
+/home/boong/Ctest/mycode/cqueue.h
 
-/home/sinhvien/Ctest/mycode/cqueue.h
+/home/boong/Ctest/mycode/cqueue.h
 stddef.h
 -
 libfdr/dllist.h
-/home/sinhvien/Ctest/mycode/libfdr/dllist.h
+/home/boong/Ctest/mycode/libfdr/dllist.h
 libfdr/jval.h
-/home/sinhvien/Ctest/mycode/libfdr/jval.h
+/home/boong/Ctest/mycode/libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/cqueue_t1.c
+/home/boong/Ctest/mycode/cqueue_t1.c
 stdio.h
 -
 cqueue.h
-/home/sinhvien/Ctest/mycode/cqueue.h
+/home/boong/Ctest/mycode/cqueue.h
 

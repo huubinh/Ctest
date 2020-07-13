@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/shortpath.dir/mycode/shortpath.c.o"
-  "shortpath.pdb"
   "shortpath"
+  "shortpath.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

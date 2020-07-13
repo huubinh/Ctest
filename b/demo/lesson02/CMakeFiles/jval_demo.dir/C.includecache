@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-..//libfdr/jval.h
+../libfdr/jval.h
 
-/home/sinhvien/Ctest/demo/lesson02/jval_demo.c
+/home/boong/Ctest/demo/lesson02/jval_demo.c
 stdio.h
 -
 libfdr/jval.h
-/home/sinhvien/Ctest/demo/lesson02/libfdr/jval.h
+/home/boong/Ctest/demo/lesson02/libfdr/jval.h
 

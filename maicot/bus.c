@@ -8,7 +8,6 @@
 #define MAX 100000
 
 int jset_insert_str(JRB tree, char *key, Jval val);
-void chuan(char a[]);
 
 int main(int argc, char* argv[])
 {

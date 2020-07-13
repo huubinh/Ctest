@@ -64,3 +64,12 @@ target_link_libraries(bus fdr debug_printf)
 
 add_executable(newbus mycode/newbus.c)
 target_link_libraries(newbus fdr debug_printf ${IGRAPH_LIBS})
+
+add_executable(teacherbus bus/bus.c)
+target_link_libraries(teacherbus ${IGRAPH_LIBS} fdr debug_printf) 
+
+add_executable(p test2015/p.c)
+  target_link_libraries(p ${IGRAPH_LIBS} fdr debug_printf)
+
+add_executable(castle test2015/castle.c)
+  target_link_libraries(castle ${IGRAPH_LIBS} fdr debug_printf)

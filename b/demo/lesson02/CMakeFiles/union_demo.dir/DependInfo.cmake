@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sinhvien/Ctest/demo/lesson02/union_demo.c" "/home/sinhvien/Ctest/b/demo/lesson02/CMakeFiles/union_demo.dir/union_demo.c.o"
+  "/home/boong/Ctest/demo/lesson02/union_demo.c" "/home/boong/Ctest/b/demo/lesson02/CMakeFiles/union_demo.dir/union_demo.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

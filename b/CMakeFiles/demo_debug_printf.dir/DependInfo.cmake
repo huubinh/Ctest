@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sinhvien/Ctest/demo/environment/demo_debug_printf.c" "/home/sinhvien/Ctest/b/CMakeFiles/demo_debug_printf.dir/demo/environment/demo_debug_printf.c.o"
+  "/home/boong/Ctest/demo/environment/demo_debug_printf.c" "/home/boong/Ctest/b/CMakeFiles/demo_debug_printf.dir/demo/environment/demo_debug_printf.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -16,7 +16,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/sinhvien/Ctest/b/DebugPrintf/CMakeFiles/debug_printf.dir/DependInfo.cmake"
+  "/home/boong/Ctest/b/DebugPrintf/CMakeFiles/debug_printf.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

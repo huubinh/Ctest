@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/graph_basics.dir/graph_basics.c.o"
-  "graph_basics.pdb"
   "graph_basics"
+  "graph_basics.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -52,7 +52,7 @@ typedef int(*kv_traverse_func_t)(void*, // key
 
 #define jrb_foreach(j, f, u) \
   do { \
-    for (jrb_iter iter = jrb_begin(t); iter != jrb_end(t); jrb_move(iter)) { \
+    for (jrb_iter iter = jrb_begin(j); iter != jrb_end(j); jrb_move(iter)) { \
       if (f(&iter->key, &iter->val, u)) { \
         break; \
       } \

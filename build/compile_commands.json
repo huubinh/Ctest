@@ -1,0 +1,507 @@
+[
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/teacherbus.dir/bus/bus.c.o   -c /home/boong/Ctest/bus/bus.c",
+  "file": "/home/boong/Ctest/bus/bus.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/readbt.dir/mycode/readbt.c.o   -c /home/boong/Ctest/mycode/readbt.c",
+  "file": "/home/boong/Ctest/mycode/readbt.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/newbus.dir/mycode/newbus.c.o   -c /home/boong/Ctest/mycode/newbus.c",
+  "file": "/home/boong/Ctest/mycode/newbus.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/QueueTest.dir/mycode/cqueue_t1.c.o   -c /home/boong/Ctest/mycode/cqueue_t1.c",
+  "file": "/home/boong/Ctest/mycode/cqueue_t1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/QueueTest.dir/concode/cqueue.c.o   -c /home/boong/Ctest/concode/cqueue.c",
+  "file": "/home/boong/Ctest/concode/cqueue.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/order.dir/mycode/order_t1.c.o   -c /home/boong/Ctest/mycode/order_t1.c",
+  "file": "/home/boong/Ctest/mycode/order_t1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/order.dir/mycode/order.c.o   -c /home/boong/Ctest/mycode/order.c",
+  "file": "/home/boong/Ctest/mycode/order.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrbtest.dir/mycode/cjset.c.o   -c /home/boong/Ctest/mycode/cjset.c",
+  "file": "/home/boong/Ctest/mycode/cjset.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrbtest.dir/mycode/cjset_t1.c.o   -c /home/boong/Ctest/mycode/cjset_t1.c",
+  "file": "/home/boong/Ctest/mycode/cjset_t1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/queueTest.dir/mycode/cqueue_t1.c.o   -c /home/boong/Ctest/mycode/cqueue_t1.c",
+  "file": "/home/boong/Ctest/mycode/cqueue_t1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/queueTest.dir/mycode/cqueue.c.o   -c /home/boong/Ctest/mycode/cqueue.c",
+  "file": "/home/boong/Ctest/mycode/cqueue.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/btUsing.dir/mycode/btUsing.c.o   -c /home/boong/Ctest/mycode/btUsing.c",
+  "file": "/home/boong/Ctest/mycode/btUsing.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/bus.dir/maicot/bus.c.o   -c /home/boong/Ctest/maicot/bus.c",
+  "file": "/home/boong/Ctest/maicot/bus.c"
+},
+{
+  "directory": "/home/boong/Ctest/build",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/demo_debug_printf.dir/demo/environment/demo_debug_printf.c.o   -c /home/boong/Ctest/demo/environment/demo_debug_printf.c",
+  "file": "/home/boong/Ctest/demo/environment/demo_debug_printf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/DebugPrintf",
+  "command": "/bin/gcc-9   -g   -std=gnu99 -o CMakeFiles/debug_printf.dir/debug_printf.c.o   -c /home/boong/Ctest/DebugPrintf/debug_printf.c",
+  "file": "/home/boong/Ctest/DebugPrintf/debug_printf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/libfdr",
+  "command": "/bin/gcc-9   -g   -w -std=gnu99 -o CMakeFiles/fdr.dir/dllist.c.o   -c /home/boong/Ctest/libfdr/dllist.c",
+  "file": "/home/boong/Ctest/libfdr/dllist.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/libfdr",
+  "command": "/bin/gcc-9   -g   -w -std=gnu99 -o CMakeFiles/fdr.dir/jrb.c.o   -c /home/boong/Ctest/libfdr/jrb.c",
+  "file": "/home/boong/Ctest/libfdr/jrb.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/libfdr",
+  "command": "/bin/gcc-9   -g   -w -std=gnu99 -o CMakeFiles/fdr.dir/jval.c.o   -c /home/boong/Ctest/libfdr/jval.c",
+  "file": "/home/boong/Ctest/libfdr/jval.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/libfdr",
+  "command": "/bin/gcc-9   -g   -w -std=gnu99 -o CMakeFiles/fdr.dir/fields.c.o   -c /home/boong/Ctest/libfdr/fields.c",
+  "file": "/home/boong/Ctest/libfdr/fields.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jval_demo.dir/jval_demo.c.o   -c /home/boong/Ctest/demo/lesson02/jval_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson02/jval_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/void_demo.dir/void_demo.c.o   -c /home/boong/Ctest/demo/lesson02/void_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson02/void_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/fp_demo_generic.dir/fp_demo_generic.c.o   -c /home/boong/Ctest/demo/lesson02/fp_demo_generic.c",
+  "file": "/home/boong/Ctest/demo/lesson02/fp_demo_generic.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/union_demo.dir/union_demo.c.o   -c /home/boong/Ctest/demo/lesson02/union_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson02/union_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/fp_demo.dir/fp_demo.c.o   -c /home/boong/Ctest/demo/lesson02/fp_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson02/fp_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/demo_function_declarator.dir/function_declarator.c.o   -c /home/boong/Ctest/demo/lesson02/function_declarator.c",
+  "file": "/home/boong/Ctest/demo/lesson02/function_declarator.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson02",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/demo_function_declarator.dir/foo.c.o   -c /home/boong/Ctest/demo/lesson02/foo.c",
+  "file": "/home/boong/Ctest/demo/lesson02/foo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson03",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/phone_book.dir/phone_book.c.o   -c /home/boong/Ctest/demo/lesson03/phone_book.c",
+  "file": "/home/boong/Ctest/demo/lesson03/phone_book.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson03",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/vector_demo3.dir/vector_demo3.c.o   -c /home/boong/Ctest/demo/lesson03/vector_demo3.c",
+  "file": "/home/boong/Ctest/demo/lesson03/vector_demo3.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson03",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/vector_demo2.dir/vector_demo2.c.o   -c /home/boong/Ctest/demo/lesson03/vector_demo2.c",
+  "file": "/home/boong/Ctest/demo/lesson03/vector_demo2.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson03",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/vector_demo.dir/vector_demo.c.o   -c /home/boong/Ctest/demo/lesson03/vector_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson03/vector_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson04",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/dllist_demo.dir/dllist_demo.c.o   -c /home/boong/Ctest/demo/lesson04/dllist_demo.c",
+  "file": "/home/boong/Ctest/demo/lesson04/dllist_demo.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson04",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/test_dllist_insert_b.dir/test_dllist_insert_b.c.o   -c /home/boong/Ctest/demo/lesson04/test_dllist_insert_b.c",
+  "file": "/home/boong/Ctest/demo/lesson04/test_dllist_insert_b.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson04",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/stack_demo.dir/examples/cstack_example.c.o   -c /home/boong/Ctest/demo/lesson04/examples/cstack_example.c",
+  "file": "/home/boong/Ctest/demo/lesson04/examples/cstack_example.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson04",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/stack_demo.dir/cstack.c.o   -c /home/boong/Ctest/demo/lesson04/cstack.c",
+  "file": "/home/boong/Ctest/demo/lesson04/cstack.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson04",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/test_dllist.dir/test_dllist.c.o   -c /home/boong/Ctest/demo/lesson04/test_dllist.c",
+  "file": "/home/boong/Ctest/demo/lesson04/test_dllist.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_test_insert.dir/jrb_test_insert.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_test_insert.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_test_insert.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_ni_sort1.dir/jrb_ni_sort1.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_ni_sort1.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_ni_sort1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_test_insert_gen.dir/jrb_test_insert_gen.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_test_insert_gen.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_test_insert_gen.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_strsort_pipe.dir/jrb_strsort_pipe.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_strsort_pipe.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_strsort_pipe.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_strsort_file.dir/jrb_strsort_file.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_strsort_file.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_strsort_file.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson05",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/jrb_strsort.dir/jrb_strsort.c.o   -c /home/boong/Ctest/demo/lesson05/jrb_strsort.c",
+  "file": "/home/boong/Ctest/demo/lesson05/jrb_strsort.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson06",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/containers.dir/demo_containers.c.o   -c /home/boong/Ctest/demo/lesson06/demo_containers.c",
+  "file": "/home/boong/Ctest/demo/lesson06/demo_containers.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson08",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/containers2.dir/containers2.c.o   -c /home/boong/Ctest/demo/lesson08/containers2.c",
+  "file": "/home/boong/Ctest/demo/lesson08/containers2.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/demo/lesson08",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr  -g   -std=gnu99 -o CMakeFiles/containers1.dir/containers1.c.o   -c /home/boong/Ctest/demo/lesson08/containers1.c",
+  "file": "/home/boong/Ctest/demo/lesson08/containers1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bacfre.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bacfre.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bacfre.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bacini.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bacini.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bacini.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/balbk1.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/balbk1.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/balbk1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/balblk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/balblk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/balblk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bclrlf.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bclrlf.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bclrlf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bclrst.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bclrst.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bclrst.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bcpybk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bcpybk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bcpybk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bdbug.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bdbug.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bdbug.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bdelk1.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bdelk1.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bdelk1.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bdelky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bdelky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bdelky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bdemte.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bdemte.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bdemte.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bfndky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bfndky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bfndky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bgtfre.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bgtfre.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bgtfre.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bgtinf.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bgtinf.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bgtinf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bgtslt.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bgtslt.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bgtslt.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/binsky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/binsky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/binsky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bjnblk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bjnblk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bjnblk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bjoin.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bjoin.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bjoin.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bleaf.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bleaf.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bleaf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bmkfre.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bmkfre.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bmkfre.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bmodky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bmodky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bmodky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bnewap.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bnewap.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bnewap.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bnxtbk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bnxtbk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bnxtbk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bnxtky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bnxtky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bnxtky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bprvky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bprvky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bprvky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bputky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bputky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bputky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/brdblk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/brdblk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/brdblk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bremky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bremky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bremky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/brepky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/brepky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/brepky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsemap.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsemap.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsemap.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsetbk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsetbk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsetbk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsetbs.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsetbs.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsetbs.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsptbk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsptbk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsptbk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsrhbk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsrhbk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsrhbk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bstinf.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bstinf.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bstinf.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bsuper.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bsuper.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bsuper.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btchgr.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btchgr.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btchgr.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btcls.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btcls.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btcls.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btcrt.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btcrt.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btcrt.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btcrtr.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btcrtr.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btcrtr.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btdata.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btdata.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btdata.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btdelr.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btdelr.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btdelr.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btdupkey.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btdupkey.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btdupkey.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btdups.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btdups.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btdups.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bterr.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bterr.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bterr.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btinit.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btinit.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btinit.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btlock.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btlock.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btlock.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btopn.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btopn.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btopn.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btpos.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btpos.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btpos.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btque.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btque.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btque.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btstk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btstk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btstk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/btthresh.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/btthresh.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/btthresh.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bupdky.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bupdky.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bupdky.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/butil.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/butil.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/butil.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bvalap.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bvalap.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bvalap.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bwrblk.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bwrblk.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bwrblk.c"
+},
+{
+  "directory": "/home/boong/Ctest/build/cmake-btree",
+  "command": "/bin/gcc-9  -I/home/boong/Ctest -I/home/boong/Ctest/libfdr -I/home/boong/Ctest/cmake-btree/inc   -pedantic-errors -Wall -Wno-long-long   -g   -std=gnu99 -o CMakeFiles/bt.dir/src-lib/bxdump.c.o   -c /home/boong/Ctest/cmake-btree/src-lib/bxdump.c",
+  "file": "/home/boong/Ctest/cmake-btree/src-lib/bxdump.c"
+}
+]

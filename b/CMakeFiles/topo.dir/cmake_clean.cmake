@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/topo.dir/mycode/topo.c.o"
-  "topo.pdb"
   "topo"
+  "topo.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

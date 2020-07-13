@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/sinhvien/Ctest/demo/lesson08/graph_basics.c" "/home/sinhvien/Ctest/b/demo/lesson08/CMakeFiles/graph_basics.dir/graph_basics.c.o"
+  "/home/boong/Ctest/demo/lesson08/graph_basics.c" "/home/boong/Ctest/b/demo/lesson08/CMakeFiles/graph_basics.dir/graph_basics.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

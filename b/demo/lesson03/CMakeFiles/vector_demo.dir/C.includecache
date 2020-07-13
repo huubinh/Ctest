@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-..//c-vector/cvector.h
+../c-vector/cvector.h
 assert.h
 -
 stddef.h
@@ -20,9 +20,9 @@ stddef.h
 stdlib.h
 -
 
-/home/sinhvien/Ctest/demo/lesson03/vector_demo.c
+/home/boong/Ctest/demo/lesson03/vector_demo.c
 c-vector/cvector.h
-/home/sinhvien/Ctest/demo/lesson03/c-vector/cvector.h
+/home/boong/Ctest/demo/lesson03/c-vector/cvector.h
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/demo/lesson03/DebugPrintf/debug_printf.h
+/home/boong/Ctest/demo/lesson03/DebugPrintf/debug_printf.h
 

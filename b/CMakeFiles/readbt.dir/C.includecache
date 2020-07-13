@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-..//cmake-btree/inc/btree.h
-bt.h
-../cmake-btree/inc/bt.h
-
 ../cmake-btree/inc/bc.h
 limits.h
 -
@@ -20,7 +16,11 @@ stdio.h
 bc.h
 ../cmake-btree/inc/bc.h
 
-/home/sinhvien/Ctest/mycode/readbt.c
+../cmake-btree/inc/btree.h
+bt.h
+../cmake-btree/inc/bt.h
+
+/home/boong/Ctest/mycode/readbt.c
 stdio.h
 -
 string.h
@@ -28,5 +28,5 @@ string.h
 stdlib.h
 -
 cmake-btree/inc/btree.h
-/home/sinhvien/Ctest/mycode/cmake-btree/inc/btree.h
+/home/boong/Ctest/mycode/cmake-btree/inc/btree.h
 

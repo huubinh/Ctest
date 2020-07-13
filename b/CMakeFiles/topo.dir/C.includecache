@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-..//igraph/igraph.h
+../igraph/igraph.h
 igraph_version.h
 ../igraph/igraph_version.h
 igraph_memory.h
@@ -139,10 +139,6 @@ igraph_lsap.h
 ../igraph/igraph_lsap.h
 igraph_coloring.h
 ../igraph/igraph_coloring.h
-
-..//libfdr/jrb.h
-jval.h
-../libfdr/jval.h
 
 ../igraph/igraph_adjlist.h
 igraph_decls.h
@@ -1068,9 +1064,13 @@ igraph_types.h
 igraph_datatype.h
 ../igraph/igraph_datatype.h
 
+../libfdr/jrb.h
+jval.h
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/topo.c
+../libfdr/jval.h
+
+/home/boong/Ctest/mycode/topo.c
 stdio.h
 -
 stdlib.h

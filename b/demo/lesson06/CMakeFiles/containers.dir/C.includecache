@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-..//c-vector/cvector.h
+../c-vector/cvector.h
 assert.h
 -
 stddef.h
@@ -20,33 +20,31 @@ stddef.h
 stdlib.h
 -
 
-..//libfdr/dllist.h
+../libfdr/dllist.h
 jval.h
 ../libfdr/jval.h
 
-..//libfdr/jrb.h
+../libfdr/jrb.h
 jval.h
 ../libfdr/jval.h
 
-..//libfdr/jval.h
-
-..//mylib/containers.h
-
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/demo/lesson06/demo_containers.c
+../mylib/containers.h
+
+/home/boong/Ctest/demo/lesson06/demo_containers.c
 c-vector/cvector.h
-/home/sinhvien/Ctest/demo/lesson06/c-vector/cvector.h
+/home/boong/Ctest/demo/lesson06/c-vector/cvector.h
 libfdr/dllist.h
-/home/sinhvien/Ctest/demo/lesson06/libfdr/dllist.h
+/home/boong/Ctest/demo/lesson06/libfdr/dllist.h
 libfdr/jrb.h
-/home/sinhvien/Ctest/demo/lesson06/libfdr/jrb.h
+/home/boong/Ctest/demo/lesson06/libfdr/jrb.h
 libfdr/jval.h
-/home/sinhvien/Ctest/demo/lesson06/libfdr/jval.h
+/home/boong/Ctest/demo/lesson06/libfdr/jval.h
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/demo/lesson06/DebugPrintf/debug_printf.h
+/home/boong/Ctest/demo/lesson06/DebugPrintf/debug_printf.h
 mylib/containers.h
-/home/sinhvien/Ctest/demo/lesson06/mylib/containers.h
+/home/boong/Ctest/demo/lesson06/mylib/containers.h
 stdio.h
 -
 

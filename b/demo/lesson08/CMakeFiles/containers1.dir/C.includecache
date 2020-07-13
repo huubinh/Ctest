@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-..//libfdr/dllist.h
+../libfdr/dllist.h
 jval.h
 ../libfdr/jval.h
 
-..//mylib/containers.h
-
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/demo/lesson08/containers1.c
+../mylib/containers.h
+
+/home/boong/Ctest/demo/lesson08/containers1.c
 libfdr/dllist.h
-/home/sinhvien/Ctest/demo/lesson08/libfdr/dllist.h
+/home/boong/Ctest/demo/lesson08/libfdr/dllist.h
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/demo/lesson08/DebugPrintf/debug_printf.h
+/home/boong/Ctest/demo/lesson08/DebugPrintf/debug_printf.h
 mylib/containers.h
-/home/sinhvien/Ctest/demo/lesson08/mylib/containers.h
+/home/boong/Ctest/demo/lesson08/mylib/containers.h
 

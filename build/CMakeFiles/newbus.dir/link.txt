@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/newbus.dir/mycode/newbus.c.o  -o newbus  libfdr/libfdr.a DebugPrintf/libdebug_printf.a 

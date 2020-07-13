@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/graph_adjacency.dir/graph_adjacency.c.o"
-  "graph_adjacency.pdb"
   "graph_adjacency"
+  "graph_adjacency.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

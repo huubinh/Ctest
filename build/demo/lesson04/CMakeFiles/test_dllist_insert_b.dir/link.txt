@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/test_dllist_insert_b.dir/test_dllist_insert_b.c.o  -o test_dllist_insert_b  ../../DebugPrintf/libdebug_printf.a ../../libfdr/libfdr.a 

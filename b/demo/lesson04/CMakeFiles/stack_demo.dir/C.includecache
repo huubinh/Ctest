@@ -6,33 +6,31 @@
 
 #IncludeRegexTransform: 
 
-..//demo/lesson04/cstack.h
+../demo/lesson04/cstack.h
 libfdr/dllist.h
 ../demo/lesson04/libfdr/dllist.h
 libfdr/jval.h
 ../demo/lesson04/libfdr/jval.h
 
-..//libfdr/dllist.h
+../libfdr/dllist.h
 jval.h
 ../libfdr/jval.h
 
-..//libfdr/jval.h
-
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/demo/lesson04/cstack.c
+/home/boong/Ctest/demo/lesson04/cstack.c
 cstack.h
-/home/sinhvien/Ctest/demo/lesson04/cstack.h
+/home/boong/Ctest/demo/lesson04/cstack.h
 
-/home/sinhvien/Ctest/demo/lesson04/cstack.h
+/home/boong/Ctest/demo/lesson04/cstack.h
 libfdr/dllist.h
-/home/sinhvien/Ctest/demo/lesson04/libfdr/dllist.h
+/home/boong/Ctest/demo/lesson04/libfdr/dllist.h
 libfdr/jval.h
-/home/sinhvien/Ctest/demo/lesson04/libfdr/jval.h
+/home/boong/Ctest/demo/lesson04/libfdr/jval.h
 
-/home/sinhvien/Ctest/demo/lesson04/examples/cstack_example.c
+/home/boong/Ctest/demo/lesson04/examples/cstack_example.c
 stdio.h
 -
 demo/lesson04/cstack.h
-/home/sinhvien/Ctest/demo/lesson04/examples/demo/lesson04/cstack.h
+/home/boong/Ctest/demo/lesson04/examples/demo/lesson04/cstack.h
 

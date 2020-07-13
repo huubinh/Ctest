@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/jrbtest.dir/mycode/cjset.c.o CMakeFiles/jrbtest.dir/mycode/cjset_t1.c.o  -o jrbtest  libfdr/libfdr.a 

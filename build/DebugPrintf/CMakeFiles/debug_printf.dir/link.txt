@@ -1,0 +1,2 @@
+/bin/ar qc libdebug_printf.a  CMakeFiles/debug_printf.dir/debug_printf.c.o
+/bin/ranlib libdebug_printf.a

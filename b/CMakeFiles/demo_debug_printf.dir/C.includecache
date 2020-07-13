@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-/home/sinhvien/Ctest/demo/environment/demo_debug_printf.c
+/home/boong/Ctest/demo/environment/demo_debug_printf.c
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/demo/environment/DebugPrintf/debug_printf.h
+/home/boong/Ctest/demo/environment/DebugPrintf/debug_printf.h
 

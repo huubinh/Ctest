@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/teacherbus.dir/bus/bus.c.o  -o teacherbus  libfdr/libfdr.a DebugPrintf/libdebug_printf.a 

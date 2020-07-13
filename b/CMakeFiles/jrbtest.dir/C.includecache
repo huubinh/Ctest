@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-..//libfdr/jrb.h
+../libfdr/jrb.h
 jval.h
 ../libfdr/jval.h
 
-..//libfdr/jval.h
-
-..//mylib/containers.h
-
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/cjset.c
+../mylib/containers.h
+
+/home/boong/Ctest/mycode/cjset.c
 stddef.h
 -
 string.h
@@ -24,19 +22,19 @@ string.h
 stdlib.h
 -
 cjset.h
-/home/sinhvien/Ctest/mycode/cjset.h
+/home/boong/Ctest/mycode/cjset.h
 libfdr/jval.h
-/home/sinhvien/Ctest/mycode/libfdr/jval.h
+/home/boong/Ctest/mycode/libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/cjset.h
+/home/boong/Ctest/mycode/cjset.h
 libfdr/jrb.h
-/home/sinhvien/Ctest/mycode/libfdr/jrb.h
+/home/boong/Ctest/mycode/libfdr/jrb.h
 
-/home/sinhvien/Ctest/mycode/cjset_t1.c
+/home/boong/Ctest/mycode/cjset_t1.c
 cjset.h
-/home/sinhvien/Ctest/mycode/cjset.h
+/home/boong/Ctest/mycode/cjset.h
 mylib/containers.h
-/home/sinhvien/Ctest/mycode/mylib/containers.h
+/home/boong/Ctest/mycode/mylib/containers.h
 stdio.h
 -
 stdlib.h

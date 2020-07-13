@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-..//igraph/igraph.h
+../igraph/igraph.h
 igraph_version.h
 ../igraph/igraph_version.h
 igraph_memory.h
@@ -145,10 +145,6 @@ igraph_lsap.h
 ../igraph/igraph_lsap.h
 igraph_coloring.h
 ../igraph/igraph_coloring.h
-
-..//libfdr/jrb.h
-jval.h
-../libfdr/jval.h
 
 ../igraph/igraph_adjlist.h
 igraph_decls.h
@@ -1074,9 +1070,13 @@ igraph_types.h
 igraph_datatype.h
 ../igraph/igraph_datatype.h
 
+../libfdr/jrb.h
+jval.h
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/mycode/newbus.c
+../libfdr/jval.h
+
+/home/boong/Ctest/mycode/newbus.c
 stdio.h
 -
 stdlib.h
@@ -1086,9 +1086,9 @@ string.h
 ctype.h
 -
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/mycode/DebugPrintf/debug_printf.h
+/home/boong/Ctest/mycode/DebugPrintf/debug_printf.h
 libfdr/jrb.h
-/home/sinhvien/Ctest/mycode/libfdr/jrb.h
+/home/boong/Ctest/mycode/libfdr/jrb.h
 igraph/igraph.h
-/home/sinhvien/Ctest/mycode/igraph/igraph.h
+/home/boong/Ctest/mycode/igraph/igraph.h
 

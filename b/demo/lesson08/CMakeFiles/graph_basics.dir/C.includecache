@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-..//igraph/igraph.h
+../igraph/igraph.h
 igraph_version.h
 ../igraph/igraph_version.h
 igraph_memory.h
@@ -1064,9 +1064,9 @@ igraph_types.h
 igraph_datatype.h
 ../igraph/igraph_datatype.h
 
-/home/sinhvien/Ctest/demo/lesson08/graph_basics.c
+/home/boong/Ctest/demo/lesson08/graph_basics.c
 stdio.h
 -
 igraph/igraph.h
-/home/sinhvien/Ctest/demo/lesson08/igraph/igraph.h
+/home/boong/Ctest/demo/lesson08/igraph/igraph.h
 

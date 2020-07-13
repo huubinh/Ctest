@@ -1,1 +1,1 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/btUsing.dir/mycode/btUsing.c.o  -o btUsing cmake-btree/libbt.a 
+/usr/bin/cc -g  -rdynamic CMakeFiles/btUsing.dir/mycode/btUsing.c.o  -o btUsing  cmake-btree/libbt.a 

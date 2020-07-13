@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/btUsing.dir/mycode/btUsing.c.o  -o btUsing  cmake-btree/libbt.a 

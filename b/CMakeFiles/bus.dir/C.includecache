@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-..//DebugPrintf/debug_printf.h
+../DebugPrintf/debug_printf.h
 stdarg.h
 -
 stdio.h
 -
 
-..//libfdr/jrb.h
+../libfdr/jrb.h
 jval.h
 ../libfdr/jval.h
 
 ../libfdr/jval.h
 
-/home/sinhvien/Ctest/maicot/bus.c
+/home/boong/Ctest/maicot/bus.c
 stdio.h
 -
 stdlib.h
@@ -28,7 +28,7 @@ string.h
 ctype.h
 -
 DebugPrintf/debug_printf.h
-/home/sinhvien/Ctest/maicot/DebugPrintf/debug_printf.h
+/home/boong/Ctest/maicot/DebugPrintf/debug_printf.h
 libfdr/jrb.h
-/home/sinhvien/Ctest/maicot/libfdr/jrb.h
+/home/boong/Ctest/maicot/libfdr/jrb.h
 

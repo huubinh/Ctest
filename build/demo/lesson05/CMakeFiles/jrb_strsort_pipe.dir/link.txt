@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/jrb_strsort_pipe.dir/jrb_strsort_pipe.c.o  -o jrb_strsort_pipe  ../../libfdr/libfdr.a 

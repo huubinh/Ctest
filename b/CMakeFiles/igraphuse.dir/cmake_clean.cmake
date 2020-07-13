@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/igraphuse.dir/mycode/igraphuse.c.o"
-  "igraphuse.pdb"
   "igraphuse"
+  "igraphuse.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
