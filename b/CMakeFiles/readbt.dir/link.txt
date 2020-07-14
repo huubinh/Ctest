@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/readbt.dir/mycode/readbt.c.o  -o readbt  cmake-btree/libbt.a 

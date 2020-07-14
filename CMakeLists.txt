@@ -73,3 +73,10 @@ add_executable(p test2015/p.c)
 
 add_executable(castle test2015/castle.c)
   target_link_libraries(castle ${IGRAPH_LIBS} fdr debug_printf)
+
+add_executable(motlan test2015/chau_mot_lan.c)
+target_link_libraries(motlan debug_printf ${IGRAPH_LIBS} fdr)
+
+add_executable(2018 test2015/2018.c)
+  target_link_libraries(2018 ${IGRAPH_LIBS} fdr debug_printf)
+

@@ -115,7 +115,7 @@ for(JRB ptr = jrb_first(j); ptr != jrb_nil(j); ptr = jrb_next(ptr))        //duy
       printf("%s\n",ptr->key.s);
 
 
-int jset_insert_str(JRB tree, char *key, Jval val) {           // hàm kiểm tra key đã tồn tại chưa, nếu chưa thì insert vào 1 bản sao nhờ strdup
+int jset_insert_str(JRB tree, char *key, Jval val) { // hàm kiểm tra key đã tồn tại chưa, nếu chưa thì insert vào 1 bản sao nhờ strdup
     if (jrb_find_str(tree,key)==NULL){
         jrb_insert_str(tree,strdup(key),val);
         return 1;
@@ -200,3 +200,11 @@ char* trim(char* token){   //lọai bỏ khoảng trắng thừa đầu cuối
   while (isspace((unsigned)token[strlen(token)-1])) token[strlen(token)-1] = '\0';
   return strdup(token);
 }
+
+int **matrix;
+    matrix = (int**)malloc(sizeof(int*)*n);
+    for(int i=0; i<n; i++)
+        matrix[i] = (int*)malloc(sizeof(int)*n);
+    for(int i=0; i<n; i++)
+        for(int j=0; j<n; j++)
+            matrix[i][j]=0;

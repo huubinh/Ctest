@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/castle.dir/test2015/castle.c.o  -o castle  ../binaries/libigraph.a -lm libfdr/libfdr.a DebugPrintf/libdebug_printf.a 

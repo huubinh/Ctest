@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/shortpath.dir/mycode/shortpath.c.o  -o shortpath  ../binaries/libigraph.a -lm libfdr/libfdr.a DebugPrintf/libdebug_printf.a 

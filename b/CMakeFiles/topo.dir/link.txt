@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -rdynamic CMakeFiles/topo.dir/mycode/topo.c.o  -o topo  ../binaries/libigraph.a -lm libfdr/libfdr.a 

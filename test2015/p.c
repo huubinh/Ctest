@@ -33,7 +33,7 @@ int main( int argc, char* argv[] ) {
         igraph_vector_init( &weight, 0 );
 
         fscanf(f,"%d",&m);
-        for (int i=0; i<n; i++) {
+        for (int i=0; i<m; i++) {
             fscanf(f, "%d %d %d", &v1, &v2, &w);
             igraph_vector_push_back(&edge, v1);
             igraph_vector_push_back(&edge, v2);
