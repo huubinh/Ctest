@@ -80,3 +80,8 @@ target_link_libraries(motlan debug_printf ${IGRAPH_LIBS} fdr)
 add_executable(2018 test2015/2018.c)
   target_link_libraries(2018 ${IGRAPH_LIBS} fdr debug_printf)
 
+add_executable(cc cml_part2.c)
+target_link_libraries(cc ${IGRAPH_LIBS} fdr debug_printf)
+
+add_executable(pr chbl.c)
+target_link_libraries(pr ${IGRAPH_LIBS} fdr debug_printf)
