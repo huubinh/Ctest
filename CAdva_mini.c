@@ -130,12 +130,76 @@ JRB result = jrb_find_int( jrb_id, id_find);  //tìm key id_find trong cây
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+#include "libfdr/fields.h"
 
-1.  char* trim(char* token){   //lọai bỏ khoảng trắng thừa đầu cuối của chuỗi
+*VD Về việc đọc danh sách kề có hướng
+    *File :
+    5
+    1 3 5 6
+    2 5 7
+    3 6 8 9 4
+    4 5
+    5 4 3
+    *Sử dụng :
+        
+        IS is; //khởi tạo
+        is = new_inputstruct(argv[2]); //truyền đường dẫn, đọc file
+        get_line(is);   //đọc dòng đầu
+        int n = atoi( is->fields[0] ); // lưu số dòng cần đọc vào n
+        for (int i=0; i<n; i++){
+            get_line(is);
+            int start,end;
+            start = atoi( is->fields[0] ); //lưu id đỉnh đầu
+            for (int j=1; j < is->NF; j++){
+                end = atoi( is->fields[j] ); //lưu từng id đỉnh cuối
+                matrix[start-1][end-1] = 1; //đánh dấu trong ma trận kề, -1 vì ma trận đánh số từ 0, id đánh số từ 1
+            }
+        }
+        jettison_inputstruct(is); //free
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+1. 
+  #include <ctype.h>
+  char* trim(char* token){   //lọai bỏ khoảng trắng thừa đầu cuối của chuỗi
      while (isspace((unsigned)token[0])) token++;
      while (isspace((unsigned)token[strlen(token)-1])) token[strlen(token)-1] = '\0';
      return strdup(token);
     }
+
+    char* trim(char* token){   //lọai bỏ khoảng trắng đầu cuối , chuyển chữ đầu là hoa, các chữ sau là thường
+     while (isspace((unsigned)token[0])) token++;  
+     while (isspace((unsigned)token[strlen(token)-1]))
+            token[strlen(token)-1] = '\0';
+     token[0] = toupper(token[0]);
+     for ( int i=1; i<strlen(token); i++ )
+            token[i] = tolower(token[i]);
+     return strdup(token);
+    }
+
+    char* trim(char* token){   //lọai bỏ khoảng trắng thừa đầu cuối, tất cả các chữ thành thường
+     while (isspace((unsigned)token[0])) token++;  
+     while (isspace((unsigned)token[strlen(token)-1])) 
+            token[strlen(token)-1] = '\0';
+     for ( int i=0; i<strlen(token); i++ )
+            token[i] = tolower(token[i]);
+     return strdup(token);
+    }
+
+    char* trim(char* token){   //lọai bỏ khoảng trắng thừa đầu cuối, tất cả các chữ thành hoa
+     while (isspace((unsigned)token[0])) token++;  
+     while (isspace((unsigned)token[strlen(token)-1])) 
+            token[strlen(token)-1] = '\0';
+     for ( int i=0; i<strlen(token); i++ )
+            token[i] = toupper(token[i]);
+     return strdup(token);
+    }
+
+*VD : 
+    char a[30];
+    gets(a);
+    printfInfo("%s",trim(a));
+
 
 2.  int **matrix;   //Cấp phát động mảng 2 chiều
     matrix = (int**)malloc(sizeof(int*)*so_hang);

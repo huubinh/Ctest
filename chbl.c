@@ -103,6 +103,55 @@ for(int i=0;i<m;i++){
        } 
 return 0;
 }
-    
+
+  else if((strcmp(argv[1],"cr"))==0){
+if((file=fopen(argv[2],"r"))==NULL){
+    printf("Can't open file.\n");
+    exit(-1);
+}
+fscanf(file, "%d %d", &n, &m);
+for(int i=0;i<n;i++){
+fscanf(file, "%s %d", item_name, &id);
+jrb_insert_int(j_id, id, (Jval){.s=strdup(item_name)});
+}
+
+igraph_vector_t vector_edge;
+igraph_vector_init(&vector_edge, 0);
+int start,end;
+
+igraph_vector_t q1;
+igraph_vector_init(&q1, 0);
+igraph_vector_t q2;
+igraph_vector_init(&q2, 0);
+
+for(int i=0;i<m; i++){
+fscanf(file, "%d %d", &start, &end );
+igraph_vector_push_back(&vector_edge, start);
+igraph_vector_push_back(&vector_edge, end);
+}
+
+int check_q1 = atoi(argv[3]);
+int check_q2 = atoi(argv[4]);
+
+for(long int i = 0; i < igraph_vector_size(&vector_edge); i = i +2){
+if((long int)VECTOR(vector_edge)[i + 1] == check_q1)
+igraph_vector_push_back(&q1, (long int)VECTOR(vector_edge)[i]);
+}
+
+for(long int i = 0; i < igraph_vector_size(&vector_edge); i = i +2){
+if((long int)VECTOR(vector_edge)[i + 1] == check_q2)
+igraph_vector_push_back(&q2, (long int)VECTOR(vector_edge)[i]);
+}
+
+for(long int i = 0; i < igraph_vector_size(&q1); i++)
+for(long int j = 0; j < igraph_vector_size(&q2); j++){
+if((long int)VECTOR(q1)[i] == (long int)VECTOR(q2)[j]){
+    JRB info = jrb_find_int(j_id, (long int)VECTOR(q1)[i]);
+    printf("%s\n", info->val.s);
+}
+}
+      return 0;
+  } 
+
     return 0;
     }

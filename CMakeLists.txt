@@ -85,3 +85,6 @@ target_link_libraries(cc ${IGRAPH_LIBS} fdr debug_printf)
 
 add_executable(pr chbl.c)
 target_link_libraries(pr ${IGRAPH_LIBS} fdr debug_printf)
+
+add_executable(input test.c)
+target_link_libraries(input fdr debug_printf)

@@ -98,7 +98,7 @@ int main( int argc, char* argv[] ) {
             }
             printf("%ld\n",cvector_size(cvec)/2);
             for ( size_t i=0; i<cvector_size(cvec); i+=2)
-                printf("%d %s %d\n", cvec[i], ( jrb_find_int(j1,cvec[i]) ) ->val.s, cvec[i+1] );
+                printf("%d %s %d\n", ( jrb_find_int(j1,cvec[i]) ) ->key.i, ( jrb_find_int(j1,cvec[i]) ) ->val.s, cvec[i+1] );
             
             cvector_free(cvec);
             
